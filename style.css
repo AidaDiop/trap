@@ -46,6 +46,7 @@ body{
     background-image: linear-gradient(to right, #a517ba, #5f1782);
     color: white;
     padding-top: 5%;
+    width: 100%;
 }
 
 .promo-title{
@@ -64,7 +65,7 @@ body{
     color: white;   
 }
 
-.img-fluid{
+.image-fluid{
     width: 450px;
 }
 
